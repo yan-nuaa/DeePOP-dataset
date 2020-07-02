@@ -1,4 +1,4 @@
-数据集-办公商务.rar filter=lfs diff=lfs merge=lfs -text
-数据集-金融理财.rar filter=lfs diff=lfs merge=lfs -text
-数据集-健康运动.rar filter=lfs diff=lfs merge=lfs -text
-数据集-影音播放.rar filter=lfs diff=lfs merge=lfs -text
+Dataset-Office.rar filter=lfs diff=lfs merge=lfs -text
+Dataset-Finance.rar filter=lfs diff=lfs merge=lfs -text
+Dataset-Health.rar filter=lfs diff=lfs merge=lfs -text
+Dataset-Media.rar filter=lfs diff=lfs merge=lfs -text
